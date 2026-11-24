@@ -1,0 +1,27 @@
+# Task 3 – Clean Dataset
+
+## Project Title
+Student Performance Analysis
+
+## Objective
+To clean and prepare the Students Performance dataset for further analysis.
+
+## Tools Used
+- Python
+- Google Colab
+- Pandas
+
+## Data Cleaning Process
+- Checked the dataset for missing values.
+- Checked duplicate records.
+- Reviewed column names and data types.
+- Prepared the cleaned dataset for analysis.
+
+## Output
+Cleaned_Students_Data.csv
+
+## Outcome
+Successfully prepared the cleaned Students Performance dataset for further data analysis and dashboard creation.
+
+## Internship Task
+Task 3 – Clean Dataset
